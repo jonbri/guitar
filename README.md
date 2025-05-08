@@ -1,9 +1,11 @@
 # guitar
 
+| Tuning  | Notes |
+| -------- | ------------ |
 | Standard | E A D G B E  |
-| Open-C   | C G C G C E  |
-| Open-D   | D A D F# A D |
-| Open-G   | D–G–D–G–B–D |
+| Open C   | C G C G C E  |
+| Open D   | D A D F# A D |
+| Open G   | D G D G B D |
 
 ## Poor Boy A Long Way From Home
 
