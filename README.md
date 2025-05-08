@@ -9,24 +9,31 @@
 
 ## Poor Boy A Long Way From Home
 
-- https://www.youtube.com/watch?v=SAoSMhQTr4E&list=PLiI1ER6BB1x747iB2n8qijjdO9ggBwhdK
+- [Lesson from John Fahey](https://www.youtube.com/watch?v=SAoSMhQTr4E&list=PLiI1ER6BB1x747iB2n8qijjdO9ggBwhdK)
 - Open D
 
 ## On The Sunny Side Of The Ocean
 
-- https://www.youtube.com/watch?v=qYDrkG2EGwg
+- [Live performance from 1978](https://www.youtube.com/watch?v=qYDrkG2EGwg)
 - Open G
 
 ## Sunflower Blues
 
-- https://www.youtube.com/watch?v=_dRoe07zxoE
+- [Lesson from Kyle Orla](https://www.youtube.com/watch?v=_dRoe07zxoE)
 - Open C
 
 ## John Henry Variations
 
-- https://www.youtube.com/watch?v=CUDYeRglNSk
+- [Album cut](https://www.youtube.com/watch?v=CUDYeRglNSk)
+- [Lesson from CD](https://www.youtube.com/watch?v=vHP_YEEQz6o)
+- Open D
 
 ## When The Springtime Comes Again
 
-- https://www.youtube.com/watch?v=fAU-aGb6y00
+- [Album cut](https://www.youtube.com/watch?v=fAU-aGb6y00)
+
+
+## Links
+
+- https://www.johnfahey.com/TuningsPage.htm
 
