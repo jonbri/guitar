@@ -32,6 +32,10 @@
 
 - [Album cut](https://www.youtube.com/watch?v=fAU-aGb6y00)
 
+## Steamboat Gwine 'Round de Bend
+
+- [Album cut (1972)](https://www.youtube.com/watch?v=LNYghC7RjGY&list=PLKiEBsOXrNf5WWQx4lZ1feOsarAyNlFLJ)
+
 
 ## Links
 
